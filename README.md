@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <h3>About Me</h3>
 <ul>
   <li>I am 22 years old and I am from Buenos Aires, Argentina.</li>
+  <li>I am finishing my university degree in programming.</li>
   <li>I am currently learning Angular.</li>
   <li>I am looking forward to collaborate on open source projects.</li>
   <li>I am eager to gain experience and grow in a professional environment where I can contribute my skills and knowledge.</li>
