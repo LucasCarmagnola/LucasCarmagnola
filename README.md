@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-    
+# Hi, I'm [Lucas Carmagnola] 👋
 <h1>Hello! I'm Lucas Carmagnola 👋</h1> 
 <h2>Full Stack Developer Trainee.</h2>
 <h3>About Me</h3>
