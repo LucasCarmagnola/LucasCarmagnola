@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+    
+<h1>Hello! I'm Lucas Carmagnola 👋</h1> 
+<h2>Full Stack Developer Trainee.</h2>
+<h3>About Me</h3>
+<ul>
+  <li>I am 22 years old and I am from Buenos Aires, Argentina.2</li>
+  <li></li>
+</ul>
 
-Hello! I'm Lucas Carmagnola 👋
+
 
