@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### 🔧 **Tech Stack:**
 - **Frontend:** HTML, CSS, JavaScript, Angular, TypeScript
 - **Backend:** Node.js, Express.js
-- **Databases:** MySQL, Firebase
+- **Databases:** <img href="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"> <img href="[https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)">
 - **Version Control:** Git, GitHub
 - **Other Tools:** Visual Studio Code, Postman
 
