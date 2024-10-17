@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <h2>Full Stack Developer Trainee.</h2>
 <h3>About Me</h3>
 <ul>
-  <li>I am 22 years old and I am from Buenos Aires, Argentina.</li>
-  <li>I am finishing my university degree in programming.</li>
-  <li>I am currently learning Angular.</li>
-  <li>I am looking forward to collaborate on open source projects.</li>
-  <li>I am eager to gain experience and grow in a professional environment where I can contribute my skills and knowledge.</li>
+  <li>I am 22 years old and from Buenos Aires, Argentina.</li>
+  <li>Finishing my university degree in programming.</li>
+  <li>Currently learning Angular to enhance my front-end skills.</li>
+  <li>Looking forward to collaborate on open source projects.</li>
+  <li>Eager to gain experience and grow in a professional environment where I can contribute my skills and knowledge.</li>
 </ul>
 
 ### 🔧 **Tech Stack:**
