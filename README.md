@@ -26,10 +26,8 @@ Here are some ideas to get you started:
 
 ### 🔧 **Tech Stack:**
 - **Frontend:** HTML, CSS, JavaScript, Angular, TypeScript
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 - **Databases:** ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - **Version Control:** Git, GitHub
 - **Other Tools:** Visual Studio Code, Postman
 
