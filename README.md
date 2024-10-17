@@ -14,14 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm [Lucas Carmagnola] 👋
+
 <h1>Hello! I'm Lucas Carmagnola 👋</h1> 
 <h2>Full Stack Developer Trainee.</h2>
 <h3>About Me</h3>
 <ul>
   <li>I am 22 years old and I am from Buenos Aires, Argentina.2</li>
-  <li></li>
+  <li>I am currently learning Angular</li>
+  <li>I am looking forward to collaborate on open source projects.</li>
 </ul>
+
+### 🔧 **Tech Stack:**
+- **Frontend:** HTML, CSS, JavaScript, Angular, TypeScript
+- **Backend:** Node.js, Express.js
+- **Databases:** MySQL, Firebase
+- **Version Control:** Git, GitHub
+- **Other Tools:** Visual Studio Code, Postman
 
 
 
